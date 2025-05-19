@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia, programação e resolver problemas com soluções
 - Trabalhar com projetos desafiadores e inovadores  
 
 ## 📫 Como me encontrar:
-- **Email:** [seuemail@exemplo.com]  
+- **Email:** [blackni342@gmail.com]  
 - **GitHub:** [github.com/seuusuario]  
 - **LinkedIn:** [linkedin.com/in/seunome] *(opcional)*
 
