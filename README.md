@@ -22,9 +22,7 @@ Sou apaixonado por tecnologia, programação e resolver problemas com soluções
 
 ## 📫 Como me encontrar:
 - **Email:** [blackni342@gmail.com]  
-- **GitHub:** [github.com/seuusuario]  
-- **LinkedIn:** [linkedin.com/in/seunome] *(opcional)*
-
+- **GitHub:** [github.com/BlackDev-Ld]  
 ---
 
 **“Código limpo, mente clara.”**  
